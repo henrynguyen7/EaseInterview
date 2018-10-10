@@ -1,0 +1,11 @@
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\bin\Debug\netcoreapp2.1\ease-interview.deps.json
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\bin\Debug\netcoreapp2.1\ease-interview.runtimeconfig.json
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\bin\Debug\netcoreapp2.1\ease-interview.runtimeconfig.dev.json
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\bin\Debug\netcoreapp2.1\ease-interview.dll
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\bin\Debug\netcoreapp2.1\ease-interview.pdb
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\obj\Debug\netcoreapp2.1\ease-interview.csprojAssemblyReference.cache
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\obj\Debug\netcoreapp2.1\ease-interview.csproj.CoreCompileInputs.cache
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\obj\Debug\netcoreapp2.1\ease-interview.AssemblyInfoInputs.cache
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\obj\Debug\netcoreapp2.1\ease-interview.AssemblyInfo.cs
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\obj\Debug\netcoreapp2.1\ease-interview.dll
+\\Mac\Home\dev\easehr\ease-interview\ease-interview\obj\Debug\netcoreapp2.1\ease-interview.pdb

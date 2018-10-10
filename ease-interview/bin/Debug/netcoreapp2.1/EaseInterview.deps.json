@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "59e433b77a475b217996a5a6d9db33982a285144"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "EaseInterview/1.0.0": {
+        "dependencies": {
+          "RestSharp": "106.5.2"
+        },
+        "runtime": {
+          "EaseInterview.dll": {}
+        }
+      },
+      "RestSharp/106.5.2": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.5.2.0",
+            "fileVersion": "106.5.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EaseInterview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/106.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-naErYXSrBCHFMT0xP+/R337LpTR7ui4K3D2trP/D0q7woqo3GgnceAa4XrUFupI8bfdFQuyA/beLY+o5OrJ2Fg==",
+      "path": "restsharp/106.5.2",
+      "hashPath": "restsharp.106.5.2.nupkg.sha512"
+    }
+  }
+}

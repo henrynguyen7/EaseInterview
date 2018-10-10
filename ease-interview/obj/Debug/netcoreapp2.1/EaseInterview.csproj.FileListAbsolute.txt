@@ -1,0 +1,22 @@
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/EaseInterview.deps.json
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/EaseInterview.runtimeconfig.json
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/EaseInterview.runtimeconfig.dev.json
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/EaseInterview.dll
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/EaseInterview.pdb
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/EaseInterview.csprojAssemblyReference.cache
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/EaseInterview.csproj.CoreCompileInputs.cache
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/EaseInterview.AssemblyInfoInputs.cache
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/EaseInterview.AssemblyInfo.cs
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/EaseInterview.dll
+//mac/home/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/EaseInterview.pdb
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/bin/Debug/netcoreapp2.1/EaseInterview.deps.json
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/bin/Debug/netcoreapp2.1/EaseInterview.runtimeconfig.json
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/bin/Debug/netcoreapp2.1/EaseInterview.runtimeconfig.dev.json
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/bin/Debug/netcoreapp2.1/EaseInterview.dll
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/bin/Debug/netcoreapp2.1/EaseInterview.pdb
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/obj/Debug/netcoreapp2.1/EaseInterview.csprojAssemblyReference.cache
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/obj/Debug/netcoreapp2.1/EaseInterview.csproj.CoreCompileInputs.cache
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/obj/Debug/netcoreapp2.1/EaseInterview.AssemblyInfoInputs.cache
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/obj/Debug/netcoreapp2.1/EaseInterview.AssemblyInfo.cs
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/obj/Debug/netcoreapp2.1/EaseInterview.dll
+/Users/henrynguyen/dev/easehr/EaseInterview/EaseInterview/obj/Debug/netcoreapp2.1/EaseInterview.pdb
